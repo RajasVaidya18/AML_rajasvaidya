@@ -1,0 +1,12 @@
+creation_timestamp: 1677526224017
+current_stage: None
+description: null
+last_updated_timestamp: 1677526224017
+name: Gaussian-NaiveBayes-model
+run_id: ce6ed4455d934c17adeae43f16aee1ab
+run_link: null
+source: file:///C:/Users/rajas/OneDrive/Documents/AML/AML_rajasvaidya/AML_assignment_2/mlruns/0/ce6ed4455d934c17adeae43f16aee1ab/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1
