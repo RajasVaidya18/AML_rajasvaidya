@@ -1,0 +1,5 @@
+outs:
+- md5: c5159a71737e169028b53c6323dffe39.dir
+  size: 1790727
+  nfiles: 7
+  path: smsspamcollection
